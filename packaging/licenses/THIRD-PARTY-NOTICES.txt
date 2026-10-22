@@ -1,0 +1,13 @@
+DesktopPet 0.1.0 runtime components
+
+Eclipse Temurin OpenJDK 17: https://adoptium.net/
+Runtime licensing and third-party notices: runtime/legal and Temurin-NOTICE.txt.
+Downloaded runtime archive and its verified SHA-256: runtime-download.json.
+
+OpenJFX 17.0.18 Windows x64: javafx-base, javafx-graphics, javafx-controls.
+License: GNU GPL v2 with the Classpath Exception; see OpenJFX-LICENSE.txt,
+OpenJFX-ADDITIONAL_LICENSE_INFO.txt and OpenJFX-ASSEMBLY_EXCEPTION.txt.
+Source repository: https://github.com/openjdk/jfx17u
+Build artifacts: https://repo.maven.apache.org/maven2/org/openjfx/
+This application uses the upstream JavaFX binaries without modification.
+Additional notices for included modules are provided alongside this file.
